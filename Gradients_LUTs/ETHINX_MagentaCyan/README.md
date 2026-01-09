@@ -1,2 +1,2 @@
-# Magenta-Cyan LUTs
-Signature ETHINX gradient overlays for branding.
+# ETHINX Magenta-Cyan LUTs
+Signature gradient tones representing creativity and automation fusion.

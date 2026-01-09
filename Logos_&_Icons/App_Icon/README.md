@@ -1,2 +1,2 @@
-# App Icons
-Official ETHINX application icon sets.
+# App Icon Set
+Official icons for ETHINX Studio and sub-applications.

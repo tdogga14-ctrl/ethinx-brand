@@ -1,2 +1,2 @@
 # Feature Matrix
-Tabular infographic charts for product comparison.
+Tabular comparison charts showing ETHINX’s integrated feature advantage.

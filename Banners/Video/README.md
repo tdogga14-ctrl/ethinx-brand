@@ -1,2 +1,2 @@
 # Video Banners
-Cinematic and motion assets for intros and outros.
+Animated or cinematic brand assets for trailers, intros, and promo reels.

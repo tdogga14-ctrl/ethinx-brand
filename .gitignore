@@ -1,6 +1,4 @@
 # ETHINX Studio Brand Repo
-
-# OS & Editor files
 .DS_Store
 Thumbs.db
 *.log
@@ -9,19 +7,7 @@ Thumbs.db
 *.swp
 .vscode/
 .idea/
-__pycache__/
-
-# Image / Render Cache
-*.psd
-*.tif
-*.tiff
-*.blend1
-*.xcf
-*.cache
-
-# Node / Python / Build artifacts
 node_modules/
 dist/
 .env
-.env.local
-.env.*
+__pycache__/

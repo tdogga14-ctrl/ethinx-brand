@@ -1,2 +1,2 @@
-# Favicons
-Website favicon assets for web deployment.
+# Favicon Assets
+Web favicon and PWA branding icons for online deployment.

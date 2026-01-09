@@ -1,2 +1,2 @@
 # Deck Banners
-Graphics for presentations, investor decks, and press kits.
+Graphics for investor decks, partner presentations, and media kits.

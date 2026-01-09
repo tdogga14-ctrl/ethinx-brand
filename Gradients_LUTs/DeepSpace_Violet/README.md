@@ -1,2 +1,2 @@
 # DeepSpace Violet LUTs
-Dark theme overlays for deep-tech aesthetic.
+Dark, futuristic gradients for advanced or enterprise visuals.

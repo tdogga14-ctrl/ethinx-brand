@@ -1,2 +1,2 @@
 # Overlay Pulse LUTs
-Motion design and lighting overlays for animations.
+Motion overlay layers used for animation and holographic effects.

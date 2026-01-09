@@ -1,2 +1,2 @@
-# Minimal Marks
-Simplified logo variants for watermarking.
+# Minimal Mark Logos
+Simplified branding marks for light watermark or iconography usage.
