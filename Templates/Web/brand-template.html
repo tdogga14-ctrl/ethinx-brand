@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ETHINX Studio - Brand Template</title>
+    <style>
+        :root {
+            --ethinx-magenta: #FF00FF;
+            --ethinx-cyan: #00FFFF;
+            --deep-space-violet: #4A0080;
+            --void-black: #000000;
+            --cosmic-white: #FFFFFF;
+        }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background: linear-gradient(135deg, #0a0a0a, #1a1a1a);
+            color: var(--cosmic-white);
+            margin: 0;
+            padding: 2rem;
+        }
+        
+        .brand-header {
+            border-bottom: 3px solid var(--ethinx-magenta);
+            padding-bottom: 1rem;
+            margin-bottom: 2rem;
+        }
+        
+        .ethinx-logo {
+            color: var(--ethinx-magenta);
+            font-size: 3rem;
+            font-weight: bold;
+        }
+        
+        .ethinx-tagline {
+            color: var(--ethinx-cyan);
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+        
+        .gradient-box {
+            background: linear-gradient(135deg, var(--ethinx-magenta), var(--ethinx-cyan));
+            height: 200px;
+            border-radius: 10px;
+            margin: 2rem 0;
+        }
+        
+        .color-swatch {
+            display: inline-block;
+            width: 100px;
+            height: 100px;
+            margin: 10px;
+            border-radius: 8px;
+            border: 2px solid rgba(255,255,255,0.1);
+        }
+        
+        .magenta { background-color: var(--ethinx-magenta); }
+        .cyan { background-color: var(--ethinx-cyan); }
+        .violet { background-color: var(--deep-space-violet); }
+        
+        code {
+            font-family: 'JetBrains Mono', monospace;
+            background: rgba(255, 0, 255, 0.1);
+            padding: 2px 6px;
+            border-radius: 4px;
+            border-left: 3px solid var(--ethinx-cyan);
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=JetBrains+Mono&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="brand-header">
+        <div class="ethinx-logo">ETHINX</div>
+        <div class="ethinx-tagline">Autonomous Branding System</div>
+    </div>
+    
+    <h1>Brand Color Palette</h1>
+    <div class="color-swatch magenta" title="ETHINX Magenta #FF00FF"></div>
+    <div class="color-swatch cyan" title="ETHINX Cyan #00FFFF"></div>
+    <div class="color-swatch violet" title="Deep Space Violet #4A0080"></div>
+    
+    <div class="gradient-box"></div>
+    
+    <h2>Typography Example</h2>
+    <h1>Heading 1 - Inter Bold</h1>
+    <h2>Heading 2 - Inter Bold</h2>
+    <p>Body text using Inter Regular. This is how standard paragraphs should appear.</p>
+    <p><code>Code examples use JetBrains Mono</code></p>
+    
+    <footer style="margin-top: 4rem; border-top: 1px solid rgba(255,255,255,0.1); padding-top: 1rem;">
+        <small>© 2026 ETHINX Studio. All brand assets must comply with BRAND_GUIDELINES.md</small>
+    </footer>
+</body>
+</html>
