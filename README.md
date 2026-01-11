@@ -1,3 +1,10 @@
-ETHINX Studio Brand Repository — Unified assets, banners, gradients, and charts for ETHINX AI ecosystem. 
-Create, Speak & Automate on your own AI Stack.
+# ETHINX Brand Assets
+
+Central repository for ETHINX Studio visual identity.
+
+## Version
+Current: v1.0.1
+
+## License
+[MIT License](LICENSE)
 
